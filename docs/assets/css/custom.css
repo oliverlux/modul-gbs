@@ -1,0 +1,41 @@
+/*
+===============================================================================================================================
+Put your custom CSS in this file.
+===============================================================================================================================
+*/
+
+/* CSS to better visually match Docsify pages within Canvas LMS (uncomment to use) */
+/*
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body .markdown-section {
+    font-family: "Lato","Helvetica Neue",Arial,sans-serif;
+    line-height: 1.4;
+    font-size: 16px;
+}
+
+.markdown-section a:link, .markdown-section a:visited, .markdown-section a:active {
+    text-decoration: none;
+}
+
+.markdown-section a:hover {
+    text-decoration: underline;
+}
+*/
+
+:root {
+	--base-font-size                        : 16px;
+	--link-color                            : #03500d;
+	--navbar-root-color                     : #03500d;
+	--navbar-root-color--active             : #03500d;
+	--navbar-root-color--hover              : #03500d;
+	--sidebar-nav-link-color--active        : #4D4D4D;
+	--sidebar-nav-link-font-weight--active  : bold;
+	--pagination-title-color                : #03500d;
+    --sidebar-nav-link-border-color--active: #03500d;
+    --sidebar-name-color: #03500d;
+}
+
+.title {
+    background-color: #4D4D4D;
+}
