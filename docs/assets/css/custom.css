@@ -25,15 +25,15 @@ body .markdown-section {
 
 :root {
 	--base-font-size                        : 16px;
-	--link-color                            : #03500d;
-	--navbar-root-color                     : #03500d;
-	--navbar-root-color--active             : #03500d;
-	--navbar-root-color--hover              : #03500d;
+	--link-color                            :rgb(200, 211, 0);
+	--navbar-root-color                     : rgb(200, 211, 0);
+	--navbar-root-color--active             : rgb(200, 211, 0);
+	--navbar-root-color--hover              : rgb(200, 211, 0);
 	--sidebar-nav-link-color--active        : #4D4D4D;
 	--sidebar-nav-link-font-weight--active  : bold;
-	--pagination-title-color                : #03500d;
-    --sidebar-nav-link-border-color--active: #03500d;
-    --sidebar-name-color: #03500d;
+	--pagination-title-color                : rgb(200, 211, 0);
+    --sidebar-nav-link-border-color--active: rgb(200, 211, 0);
+    --sidebar-name-color: rgb(200, 211, 0);
     
 }
 
