@@ -34,7 +34,7 @@ body .markdown-section {
 	--pagination-title-color                : rgb(200, 211, 0);
     --sidebar-nav-link-border-color--active: rgb(200, 211, 0);
     --sidebar-name-color: rgb(200, 211, 0);
-    
+	--docsifytabs-tab-highlight-color: rgb(200, 211, 0);
 }
 
 
