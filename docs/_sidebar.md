@@ -1,9 +1,9 @@
 
 - [ReadMe](introduction.md)
 - Kapitel 1
-  - [Overview](chapter-1/overview.md)
-  - [Topic 1](chapter-1/topic-1.md)
-  - [Topic 2](chapter-1/topic-2.md)
+  - [Overview](kapitel1/overview.md)
+  - [Topic 1](kapitel1/topic-1.md)
+  - [Topic 2](kapitel1/topic-2.md)
 - Kapitel 2
   - [Overview](chapter-2/overview.md)
   - [Topic 1](chapter-2/topics-1.md)
