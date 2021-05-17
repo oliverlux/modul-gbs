@@ -37,4 +37,6 @@ body .markdown-section {
 	--docsifytabs-tab-highlight-color: rgb(200, 211, 0);
 }
 
-
+.app-name-link {
+	font-weight: bold;
+}
