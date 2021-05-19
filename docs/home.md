@@ -20,6 +20,10 @@
 
 :smile:
 
+## Link zu PDF
+
+[Link PDf](vitznau-sommer-web-DE.pdf ':ignore')
+
 ```mermaid
 graph LR
     A --- B
