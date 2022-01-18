@@ -1,3 +1,3 @@
-# Modulübersicht  
+# WebDev@GBS  
 
-Hier steht eine Modulübersicht, entweder textuell oder grafisch
+Übersicht der Themen
